@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PubKid</string>
+    <string name="task_list_title">Check off tasks as they are completed:</string>
+</resources>
